@@ -1,4 +1,4 @@
-# Manager_Employee
+# Employee Management
 
 Project for job interview
 Add employees and managers
